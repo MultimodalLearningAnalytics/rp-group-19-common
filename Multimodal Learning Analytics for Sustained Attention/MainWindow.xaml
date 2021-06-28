@@ -1,0 +1,24 @@
+﻿<Window x:Class="Multimodal_Learning_Analytics_for_Sustained_Attention.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Multimodal_Learning_Analytics_for_Sustained_Attention"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="278.922" Width="472.024" MinWidth="315.024" MinHeight="181.255">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="103.333"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="startExperiment1Btn" Content="Start Experiment 1" Margin="10,72,0,0" VerticalAlignment="Top" Click="startExperiment1Btn_Click" IsEnabled="False" HorizontalAlignment="Left" Width="132" Height="21"/>
+        <Button x:Name="startExperiment2Btn" Content="Start Experiment 2" HorizontalAlignment="Left" Margin="156,72,0,0" VerticalAlignment="Top" Width="132" Click="startExperiment2Btn_Click" IsEnabled="False" Height="21"/>
+        <Button x:Name="startExperiment3Btn" Content="Start Experiment 3" HorizontalAlignment="Left" Margin="303,72,0,0" VerticalAlignment="Top" Width="132" Click="startExperiment3Btn_Click" IsEnabled="False" Height="21"/>
+        <TextBox x:Name="dateEnvironmentIdTextbox" Margin="136,10,0,0" TextWrapping="Wrap" TextChanged="dateEnvironmentIdTextbox_Changed" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="179"/>
+        <Label x:Name="dateEnvironmentIdLabel" Content="Date/Environment ID" HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" Height="26" Width="121" Padding="0,5,5,5"/>
+        <TextBox x:Name="participantIdTextbox" Margin="136,42,0,0" TextWrapping="Wrap" TextChanged="participantIdTextbox_Changed" Height="23" VerticalAlignment="Top" Text="participant1-01?" HorizontalAlignment="Left" Width="179"/>
+        <Label x:Name="participantIdLabel" Content="Participant/Run ID" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Height="26" Width="121" Padding="0,5,5,5"/>
+        <Button x:Name="btnPAJurriaan" Content="Jurriaan" HorizontalAlignment="Left" Margin="10,30.667,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="btnPAJurriaan_Click" Height="20"/>
+        <Label x:Name="label1" Content="Post processing" HorizontalAlignment="Left" Margin="10,1.667,0,0" VerticalAlignment="Top" Height="26" Width="93" Padding="0,5,5,5" FontWeight="Bold" Grid.Row="1"/>
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+
+
+
+
+
+Any enterprise eager to meet accessibility and diversity targets now has additional reasons to consider Apple’s technologies, with Assistive Touch for Apple Watch hinting at a gesture-based future for wearable tech.
+Accessibility for the rest of us?
+
+Apple made a series of announcements to mark Global Accessibility Awareness Day, which is today. New accessible user interface (UI) enhancements included support for third-party, eye-tracking hardware to control iPads and a very interesting use of machine vision intelligence so your device can identify objects within images when using voice to control the device.
+
+But it’s Assistive Touch for Apple Watch that feels most like watching Minority Report, because it introduces new gesture controls. These use built-in motion sensors inside the watch, including the gyroscope, accelerometer, optical heart rate sensor, and on-device machine learning to detect subtle differences in muscle movement and tendon activity.
+
+These gestures are then translated into actions, so it’s possible to answer a call by clenching your hand as your raise your wrist, or to scroll an on-page app interface by moving your hand.
+
+
+
+https://www.computerworld.com/article/3619889/accessibility-takes-a-magic-leap-with-apple-watch-gesture-control.html
+
+
+
+

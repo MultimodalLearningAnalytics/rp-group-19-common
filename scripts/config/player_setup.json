@@ -1,0 +1,19 @@
+{
+    "audio": { 
+        "block": 4096, 
+        "rate": 44100, 
+        "channels": 1 
+    }, 
+    
+    "socket": { 
+        "sub_ip": "127.0.0.1:25565", 
+        "pub_ip": "127.0.0.1:12347",
+        "sound_played_topic": "sound-played",
+        "sync_time": true
+    },
+
+    "usage": {
+        "online": true,
+        "ids": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "t", "m"]
+}
+}

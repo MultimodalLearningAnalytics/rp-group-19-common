@@ -1,0 +1,15 @@
+
+
+
+
+
+Mozilla on Tuesday announced that a years-long effort to harden Firefox's defenses can now be previewed in the browser's Nightly and Beta builds.
+
+Debuting as "Project Fission" in February 2019, the project was also linked to the more descriptive "site isolation," a defensive technology in which a browser devotes separate processes to each domain or even each website, and in some cases, assigns different processes to site components, such as iframes, so they are rendered separately from the process handling the overall site.
+
+The idea is to isolate malicious sites and components — and the attack code they harbor — so one site cannot exploit an unknown vulnerability or one still unpatched, then plunder the browser, or the device, or a device's memory of crucial information. That information could include authentication credentials, confidential data, and encryption keys.
+
+https://www.computerworld.com/article/3619064/firefox-previews-site-isolation-tech-in-move-to-catch-up-to-chrome.html
+
+
+

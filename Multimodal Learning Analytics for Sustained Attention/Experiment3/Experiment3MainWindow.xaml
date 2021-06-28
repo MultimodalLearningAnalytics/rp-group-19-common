@@ -1,0 +1,18 @@
+﻿<Window x:Class="Multimodal_Learning_Analytics_for_Sustained_Attention.Experiment3.Experiment3MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Multimodal_Learning_Analytics_for_Sustained_Attention.Experiment3"
+        mc:Ignorable="d"
+        Title="Experiment3MainWindow" Height="450" Width="800" MinWidth="800" MinHeight="450">
+    <Grid PreviewKeyDown="Grid_PreviewKeyDown">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="textBox" Margin="250,10.2,250,10" TextWrapping="Wrap" Grid.Row="1" VerticalScrollBarVisibility="Visible" FontSize="18" Padding="100,50" Text="Lorem ipsum dolor sit amet." FontFamily="Times New Roman"/>
+        <Label x:Name="pressSpaceBarWhenReadyLabel" Content="Press enter when ready" HorizontalAlignment="Left" Margin="10,10,0,9" VerticalAlignment="Center" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

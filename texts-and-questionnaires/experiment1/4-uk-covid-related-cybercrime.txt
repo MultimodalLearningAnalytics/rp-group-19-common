@@ -1,0 +1,21 @@
+
+
+
+
+
+The UK’s cybersecurity agency has taken down more scams in the last year than in the previous three years combined, with coronavirus and NHS-themed cybercrime fuelling the increase.
+
+Experts oversaw a 15-fold rise in the removal of online campaigns compared with 2019, according to the National Cyber Security Centre (NCSC).
+
+There was a jump in the number of phishing attacks using NHS branding to dupe victims, with the Covid-19 vaccine rollout used as a lure via email and text message to harvest people’s personal information for fraud.
+
+Forty-three fake NHS Covid-19 apps hosted outside of official app stores were also pulled.
+
+“The big increase in Covid-19-related scams, fake vaccine shops, fake PPE shops, show – to me anyway – that criminals have no bounds on what they will abuse and the fear that they engender to try and harm and defraud people,” Dr Ian Levy, the technical director of the NCSC told reporters.
+
+
+https://www.theguardian.com/technology/2021/may/10/uk-covid-related-cybercrime-fuels-15-fold-rise-in-scam-takedowns
+
+
+
+

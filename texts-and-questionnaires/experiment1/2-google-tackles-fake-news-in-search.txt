@@ -1,0 +1,17 @@
+
+
+
+
+
+Google is making it easier for people to evaluate information and check the sources for results that show up on its massive search platform, the company said during the Google I/O developer's conference keynote on Tuesday.
+
+When you search for something on Google, a new feature called About this Result will appear under a given website in your results list. This will show you how the site describes itself, what other sites say about it, and its Wikipedia page, so you can make a more informed decision about which sites to trust. About this Result will begin rolling out over time.
+
+An update to Google Lens, the AR-powered camera recognition feature that helps you identify plants and animals or translate text on a printed page, will add new capabilities to help you quickly search, copy or listen to text you've just translated. The update will launch globally this month on Android devices, and later this summer on iOS.
+
+
+https://www.cnet.com/news/google-tackles-fake-news-in-search-update-heres-how-it-works/
+
+
+
+

@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Multimodal_Learning_Analytics_for_Sustained_Attention.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ENABLE_DIAGNOSTICS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="VIDEO_WIDTH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1280</Value>
+    </Setting>
+    <Setting Name="VIDEO_HEIGHT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">720</Value>
+    </Setting>
+    <Setting Name="VIDEO_FRAMERATE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="PSI_STORES_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\psi_stores</Value>
+    </Setting>
+    <Setting Name="EXPERIMENTS_TEXTS_BASE_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\research_project</Value>
+    </Setting>
+    <Setting Name="EXPERIMENT1_RESULTS_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\experiment_results\experiment1</Value>
+    </Setting>
+    <Setting Name="LAV_AUDIO_SUB_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.137.1:12345</Value>
+    </Setting>
+    <Setting Name="LAV_RAW_TOPIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lav-audio-raw</Value>
+    </Setting>
+    <Setting Name="LAV_FREQ_TOPIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lav-audio-freq</Value>
+    </Setting>
+    <Setting Name="LAV_SYNC_TIME" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EP_AUDIO_SUB_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1:12345</Value>
+    </Setting>
+    <Setting Name="EP_RAW_TOPIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ep-audio-raw</Value>
+    </Setting>
+    <Setting Name="EP_FREQ_TOPIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ep-audio-freq</Value>
+    </Setting>
+    <Setting Name="EP_SYNC_TIME" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AUDIO_PLAYER_TOPIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sound-played</Value>
+    </Setting>
+    <Setting Name="AUDIO_PLAYER_SUB_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.137.1:12347</Value>
+    </Setting>
+    <Setting Name="IR_COM_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM5</Value>
+    </Setting>
+    <Setting Name="IR_BAUD_RATE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">115200</Value>
+    </Setting>
+    <Setting Name="VIDEO_VERTICAL_FLIP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AUDIO_BLOCK_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4410</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

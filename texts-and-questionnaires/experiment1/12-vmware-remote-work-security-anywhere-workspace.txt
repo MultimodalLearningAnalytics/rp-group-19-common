@@ -1,0 +1,17 @@
+
+
+
+
+
+Providing secure access to vital applications has been a key challenge for businesses forced to adapt to remote working during the pandemic. And with many businesses set to continue to support a distributed workforce even after offices reopen, it will remain a priority for IT for some time.
+
+With this in mind, VMware has unveiled a suite of security and endpoint management tools to support remote workers. VMware Anywhere Workspace, announced on Tuesday, combines VMware’s Workspace One, a “digital workspace platform” that delivers applications across a range of devices, with its Carbon Black Cloud endpoint security tools and SASE, which provides secure network access for distributed teams.
+
+“By combining these three things we can deliver value to the stakeholders that include employees, the CIO, CISO, lines of business and HR,” said Shankar Iyer, SVP and general manager, end user computing at VMware. “This results in highly engaged employees, a broader and more effective security model, reduced cost and overhead.”
+
+
+https://www.computerworld.com/article/3615593/vmware-targets-remote-work-security-with-anywhere-workspace.html
+
+
+
+

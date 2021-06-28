@@ -1,0 +1,35 @@
+
+
+
+
+
+Microsoft last week launched a public preview of the APIs (application programming interfaces) that IT admins can call on to control Windows Update for Business Deployment Service, the company's latest effort to push commercial customers to adopt cloud-only servicing for Windows 10.
+
+"With today's public preview release, you can use the Windows Update for Business deployment service directly through the Microsoft Graph API and associated SDKs, as well as Azure PowerShell," David Mebane, principal program manager lead with the Windows servicing group, said in an April 28 post.
+[ Related: Troubleshooting Windows 10 with Reliability Monitor ]
+
+Although Microsoft trumpeted WUfB Deployment Service at its Ignite developers conference last month, Friday was the unveiling of any actual functionality. Nor were the APIs made available last week the story's end, as Microsoft will continue to expand on the preview's functionality over an as-yet-not-nailed-down timeline.
+
+Out the gate, IT administrators can:
+
+    Approve and schedule feature upgrade deployments such as last fall's 20H2. Admins can also instruct the service not to distribute an upgrade, useful for skipping one that's available.
+
+    Stage deployments over a period of time by defining delivery date, desired feature upgrade, and number of machines affected.
+
+    Sidestep existing policies to immediately deploy a security update, say, when Microsoft issues an emergency fix for a vulnerability currently being widely exploited by attackers.
+
+Customers with licenses to a number of Microsoft's subscription plans can use the APIs immediately, according to Mebane, including:
+
+    Windows 10 Enterprise E3 or E5, or Windows 10 Education A3 or A5
+
+    Windows Virtual Desktop Access E3 or E5
+
+    Microsoft 365 Business Premium (a subscription that supports Windows 10 Pro)
+
+
+
+https://www.computerworld.com/article/3617301/microsoft-previews-new-windows-servicing-apis-for-enterprises.html
+
+
+
+
